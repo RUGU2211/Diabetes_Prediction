@@ -23,7 +23,19 @@ Diabetes Prediction is a comprehensive machine learning project designed to empo
 - Personalized health insights
 
 🖼️ Project Screenshots
-[Placeholder for project screenshots - include visualizations, model performance charts, and prediction interfaces]
+
+### Home page
+<img src="screenshots/home_page.png" width="250" alt="home page">
+
+### Result page
+<img src="screenshots/result_page.png" width="250" alt="result page">
+
+### print page
+<img src="screenshots/print_result.png" width="250" alt="print page">
+
+### About us page
+<img src="screenshots/about_us.png" width="250" alt="about-us page">
+
 
 🏗️ Technical Architecture
 🔹 Data Layer
@@ -50,7 +62,7 @@ Prerequisites
 Installation
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/DiabetesPrediction.git
+git clone https://github.com/RUGU2211/DiabetesPrediction.git
 
 # Navigate to project directory
 cd DiabetesPrediction
@@ -93,20 +105,6 @@ DiabetesPrediction/
 ├── model_training.py    # Model training and evaluation
 └── recommendation_system.py # Predictive insights system
 ```
-
-🖼️ Screenshots
-
-### Home page
-<img src="screenshot/home_page.png" width="250" alt="home page">
-
-### Result page
-<img src="screenshot/result_page.png" width="250" alt="result page">
-
-### print page
-<img src="screenshot/print_result.png" width="250" alt="print page">
-
-### About us page
-<img src="screenshot/about_us.png" width="250" alt="about-us page">
 
 
 📄 License
