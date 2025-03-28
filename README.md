@@ -114,9 +114,7 @@ DiabetesPrediction/
 📄 License
 © 2025 Rugved Manoj Kharde, NMIMS Mumbai. All Rights Reserved.
 
-📞 Contact
-Author: Rugved Manoj Kharde
-Email: RUGEVD.KHARDE81@nmims.in
-Project Link: https://github.com/RUGU2211/Diabetes_Prediction.git
-
+📞 Contact Author: Rugved Manoj Kharde
+📧 Email: RUGEVD.KHARDE81@nmims.in
+🔗 Project Link: https://github.com/RUGU211/Diabetes_Prediction.git
 Built with ❤️ for Healthcare Innovation
