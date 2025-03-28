@@ -95,15 +95,19 @@ pip install -r requirements.txt
 DiabetesPrediction/
 │
 ├── data/                # Raw and processed datasets
+├── diagrams/            # Diagrams of the clean dataset
 ├── models/              # Trained machine learning models
 ├── visualizations/      # Data and model visualization outputs
-│
+│── screenshots/         # Screenshots of the running model
+│── templates/           # html files
 ├── app.py               # Main application interface
 ├── clean_dataset.py     # Data cleaning script
 ├── data_exploration.py  # Exploratory data analysis
 ├── data_preprocessing.py# Advanced data preprocessing
+│── main.py              # main model
 ├── model_training.py    # Model training and evaluation
-└── recommendation_system.py # Predictive insights system
+│── recommendation_system.py # Predictive insights system
+|── requirements.txt         # reuirements file
 ```
 
 
